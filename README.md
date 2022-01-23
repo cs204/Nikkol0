@@ -1,2 +1,0 @@
-# Nikkol0
-psets
